@@ -1,0 +1,342 @@
+.headd
+{
+    height: 40px;
+    width: 270px;
+    border: 1px groove black;
+    background-color: lightblue;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: -100px;
+    font-size: large;
+    margin-left: 600px;
+    padding-top: 8px;
+    box-shadow: 2px 2px 15px 0px black;
+}
+.used
+{
+    height: 200px;
+    width: 540px;
+    border: 2px groove black;
+    border-radius: 10px;
+    margin-left: 476px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 20px 0px black;
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+    font-size: 18px;
+}
+.used:hover
+{
+    box-shadow: 2px 2px 10px 0px black;
+}
+.caused
+{
+    height: 70px;
+    width: 350px;
+    margin-left: 80px;
+    /* border: 0px groove black;
+    background-color: rgb(215, 190, 239); */
+    border-radius: 5px;
+    text-align: center;
+    /* color: aliceblue; */
+    /* background-image: url("https://cdn.pixabay.com/photo/2016/03/27/19/19/boys-1283786_640.jpg");
+    background-repeat: no-repeat;
+    background-size: 300%; */
+}
+.tabd
+{
+    text-align: center;
+    /* font-size: 16px; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.Amountd
+{
+    height: 70px;
+    width: 350px;
+    margin-left: 80px;
+    border: 0px groove black;
+    /* background-color: rgb(213, 173, 120); */
+    border-radius: 5px;
+    text-align: center;
+    margin-top: -25px;
+    font-size: 16px;
+    /* color: aliceblue; */
+    /* background-image: url("https://cdn.pixabay.com/photo/2016/03/27/19/19/boys-1283786_640.jpg");
+    background-repeat: no-repeat;
+    background-size: 300%; */
+}
+.tab2d
+{
+    margin-top: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Amod
+{
+    width: 180px;
+    font-size: small;
+}
+.dated
+{
+    height: 70px;
+    width: 350px;
+    margin-left: 160px;
+    /* font-size: 16px; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* color:  aliceblue; */
+    text-align: center;
+}
+.maind
+{
+    height: 180px;
+    width: 550px;
+    /* border: 2px groove black; */
+    border-radius: 10px;
+    margin-left: 450px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 0px 0px black;
+    /* background-color: rgb(207, 173, 128);
+    background-image: url("C:\Users\veera\Downloads\_At [Your Organ 1.png");
+    background-size: 1000%;
+    background-repeat: no-repeat; */
+}
+.md
+{
+    height: 65px;
+    width: 250px;
+    border: 1px groove black;
+    border-radius: 15px;
+    margin-bottom: 0px;
+    margin-top: 22px;
+    margin-left:25px;
+    font-size: 35px;
+    margin-left:25px;
+    box-shadow: 0px 0px 5px 0px black;
+    background: none;
+    background-color: rgb(193, 150, 94);
+    background: none;
+    cursor: pointer;
+    color: aliceblue;
+}
+.ed
+{
+    height: 65px;
+    width: 250px;
+    border: 1px groove black;
+    border-radius: 15px;
+    margin-top: 23px;
+    font-size: 35px;
+    /* margin-bottom: 40px;
+    margin-left: 20px; */
+    box-shadow: 0px 0px 10px 0px black;
+    background-color: rgb(193, 150, 94);
+    background: none;
+    cursor: pointer;
+    color: aliceblue;
+}
+.med
+{
+    height: 65px;
+    width: 250px;
+    border: 1px groove black;
+    border-radius: 10px;
+    /* margin-bottom: 40px;
+    margin-top: 30px;
+    margin-left: 20px; */
+    font-size: 35px;
+    margin-left:25px;
+    box-shadow: 0px 0px 5px 0px black;
+    /* background-color: rgb(193, 150, 94) */
+    background: none;
+    cursor: pointer;
+    color: aliceblue;
+}
+.od
+{
+    height: 65px;
+    width: 250px;
+    border: 1px groove black;
+    border-radius: 10px;
+    font-size: 35px;
+    /* margin-bottom: 40px;
+    margin-top: 30px;
+    margin-left: 20px; */
+    box-shadow: 0px 0px 10px 0px black;
+    background: none;
+    cursor: pointer;
+    color: aliceblue;
+}
+.md
+{
+    height: 65px;
+    width: 250px;
+    border: 1px groove black;
+    border-radius: 15px;
+    /* margin-bottom: 40px;
+    margin-top: 30px;
+    margin-left: 20px; */
+}
+.tab4d
+{
+    text-align: center;
+}
+.md:hover
+{
+    box-shadow: 5px 2px 15px 0px black;
+    font-size: 45px;
+}
+.ed:hover
+{
+    box-shadow: 5px 2px 10px 0px black;
+    font-size: 45px;
+}
+.med:hover
+{
+    box-shadow: 5px 2px 10px 0px black;
+    font-size: 45px;
+}
+.od:hover
+{
+    box-shadow: 5px 2px 10px 0px black;
+    font-size: 45px;
+}
+.bottumd
+{
+    text-align: center;
+    margin-top: 20px;
+    height: 100px;
+    width: 800px;
+    border: 2px groove black;
+    border-radius: 10px;
+    margin-left: 350px;
+    background-image: url();
+    box-shadow: 3px 3px 10px 5px black;
+}
+
+.cond
+{
+  height: 50px;
+  width: 200px;
+  margin-top: 30px;
+  margin-left: 580px;
+  background:none;
+  box-shadow: 0px 0px 2px 2px black;
+  border-radius: 20px;
+  font-size: 40px;
+  color: aliceblue;
+  cursor: pointer;
+}
+.cond:hover
+  {
+    box-shadow: 0px 0px 5px 5px black;
+  }
+  .alld
+  {
+    height: 630px;
+    width: 1350px;
+    border: 2px groove black;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-left: 50px;
+    background-color: rgb(207, 173, 128);
+    background-image: url("C:\Users\veera\Downloads\_At [Your Organ 1 (1).png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    padding-right: 100px;
+  }
+  .select1d
+  {
+    background-color: lightblue;
+    border-radius: 5px;
+    text-align: center;
+    color: rgb(179, 73, 73);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13px;
+}
+.select2d
+{
+    background-color: lightblue;
+    border-radius: 5px;
+    text-align: center;
+    color: rgb(179, 73, 73);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13px;
+}
+.dd
+{
+    background-color: lightblue;
+    border-radius: 5px;
+    text-align: center;
+    color: rgb(179, 73, 73);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13px;
+}
+.imgd
+{
+    height: 100px;
+    width: 100px;
+    margin-left: -30px;
+    margin-top: -30px;
+    border-radius: 100px;
+    /* border: 5px groove white; */
+    box-shadow: 0px 0px 5px 0px white;
+    background-image: url("C:\Users\veera\Downloads\logo hand 5.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    /* box-shadow: 0px 0px 20px 5px blanchedalmond; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
+.imgd::after
+  {
+    content: '';
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background: conic-gradient(transparent,transparent,gold);
+    animation: aaaa 1.5s linear infinite;
+    animation-delay: -0.75s;
+    
+  }
+  .imgd::before
+  {
+    content: '';
+    position: absolute;
+    height: 210px;
+    width: 210px;
+    background: conic-gradient(transparent,transparent,orangered);
+    animation: aaaa 1.5s linear infinite;
+    /* animation-delay: -2s; */
+  }
+  @keyframes aaaa
+  {
+    0%
+    {
+      transform: rotate(0deg);
+    }
+    100%
+    {
+      transform: rotate(360deg);
+    }
+  }
+  .imgd span
+  {
+    position: absolute;
+    inset: 5px;
+    border-radius: 50%;
+    background-image: url("C:\Users\veera\Downloads\logo hand 5.jpg"); 
+    background-size: 100%;
+    z-index: 1;
+  }
+.overalld
+{
+    background-color: white;
+    width: 100%;
+    height: 100%;
+}

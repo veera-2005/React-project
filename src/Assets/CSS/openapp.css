@@ -1,0 +1,177 @@
+#navulod
+{
+    display: flex;
+    justify-content: space-evenly;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+    /* border: 1px groove black; */
+    height: 68px;
+    width: 1400px;
+    border-radius: 2px;
+    margin-left: 49px;
+    list-style-type: none;
+    padding-top: 8px;
+    /* background-image: url("C:\Users\veera\Downloads\_At [Your Organ 1 (1).png"); */
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    /* box-shadow: 0px 0px 15px 1px black; */
+}
+#nliod
+{
+    height: 40px;
+    width: 165px;
+    font-size: 20px;
+    text-align: center;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 3px 3px 10px 0px black  ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+#nliod:hover
+{
+    height: 45px;
+    width: 170px;
+    box-shadow: 0px 0px 10px 0px black;
+    background-color: whitesmoke;
+    color: black;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.wastebotod
+{
+    height: 50px;
+    width: 165px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: burlywood;
+    border-radius: 20px;
+    box-shadow: 3px 3px 10px 0px black;
+    margin-top: 1px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.wastebotod:hover
+{
+    height: 55px;
+    width: 170px;
+    box-shadow: 0px 0px 10px 0px black  ;
+    background-color: burlywood;
+    color: white;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#gpd
+{
+    height: 66px;
+    width: 165px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* background-color: white; */
+    border-radius: 7px;
+    box-shadow: 3px 3px 10px 0px black;
+    margin-top: -3px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-left: -35px;
+    background-image: url("https://www.softlay.com/wp-content/uploads/Google-Play-Store-Apk-App.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.Appd
+{
+    height: 100px;
+    width: 200px;
+    border: 2px;
+    font-size: 90px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* margin-top: 300px;
+    margin-left: 100px; */
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.name
+{
+    height: 350px;
+    width: 400px;
+    /* border: px solid black; */
+    margin-left: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 15px 1px black;
+    margin-top: 130px;
+    margin-left: 400px;
+}
+.name2
+{
+    color: brown;
+    margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 13px;
+}
+.table1
+{
+    /* margin-right: 1px;
+    padding-right: 10px; */
+}
+.tabdiv
+{
+    margin-left: -20px;
+    margin-top: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+}
+td{
+    padding-right: 15px;
+}
+.insbotp{
+    height: 45px;
+    width: 180px;
+    font-size: 29px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px 0px black  ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: -15px;
+    padding-top: 0px;
+    cursor: pointer;
+    background-color: green;
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+}
+.insbotp:hover{
+    height: 47px;
+    width: 200px;
+    font-size: 30px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px 0px black  ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    background-color: green;
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+}
+.logo
+{
+    height: 350px;
+    width: 350px;
+    border: 1px solid black;
+    border-radius: 50%;
+    box-shadow: 2px 2px 15px 1px black;
+    margin-top: -349px;
+    margin-left: 900px;
+    background-image: url("C:\Users\veera\Downloads\logo hand 5.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}

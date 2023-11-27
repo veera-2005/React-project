@@ -1,0 +1,165 @@
+.full
+{
+    background-color: burlywood;
+    border: 20px black;
+    border-radius: 2px;
+    height: 700px;
+    width: 1425px;
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.home
+{
+    background-image: url("https://i0.wp.com/crowdfunding.milaap.org/wp-content/uploads/2022/07/Bkgnd-image-above-fold.png?resize=1200%2C767&ssl=1");
+    /* background-image: url("C:\Users\veera\Downloads\logo hand 5.jpg"); */
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-color:antiquewhite;
+    color: black;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 50px black;
+    border-radius:20px;
+    height: 650px;
+    width: 1300px;
+    box-shadow: 2px 2px 25px 1px black;
+    /* margin-right: 100px; */
+}
+.open
+{
+    border:5px black;
+    border-radius: 20px;
+    color: aliceblue;
+    background-color: orange;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 55px;
+    width: 500px;
+    margin-left: 590px;
+    margin-top: 130px;
+    box-shadow: 3px 3px 10px 2px black;
+}
+.open:hover
+{
+    height: 60px;
+    width: 520px;
+    box-shadow: 0px 0px 15px 3px orangered;
+    font-size: 33px;
+    padding-top: 7px;
+}
+.txt
+{
+    margin-left: 770px;
+    margin-top: -10px;
+    color: rgb(14, 100, 129);
+    
+}
+.sample
+{
+    background-color: red;
+    height: 50px;
+    width: 300px;
+    color: aliceblue;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border:5px black;
+    border-radius: 30px;
+    margin-left: 980px;
+    box-shadow: 2px 2px 10px 0px black;
+}
+.sample:hover
+{
+    height: 45px;
+    width: 320px;
+    box-shadow: 0px 0px 10px 2px red;
+    font-size: 20px;
+}
+/* ul
+{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    text-align: center;
+    background-color: aliceblue;
+    height: 30px;
+    width: 1300px;
+    border: 50px black;
+    border-radius:20px;
+    margin-bottom: 10px;
+    color: black;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ul:hover
+{
+    height: 40px;
+    width: 1350px;
+    box-shadow: 0px 0px 10px 2px blue;
+} */
+.img
+{
+    /* height: 100px;
+    width: 100px; */
+    height: 110px;
+    width: 110px;
+    border: 10px solid blanchedalmond;
+    background-image: url("C:\Users\veera\Downloads\logo hand 5.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: -80px;
+    margin-left: -30px;
+    border-radius: 100px;
+    box-shadow: 0px 0px 20px 5px blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
+.img::after
+  {
+    content: '';
+    position: absolute;
+    height: 210px;
+    width: 210px;
+    background: conic-gradient(transparent,transparent,gold);
+    animation: aaaa 1.5s linear infinite;
+    animation-delay: -0.75s;
+    
+  }
+  .img::before
+  {
+    content: '';
+    position: absolute;
+    height: 210px;
+    width: 210px;
+    background: conic-gradient(transparent,transparent,orangered);
+    animation: aaaa 1.5s linear infinite;
+    /* animation-delay: -2s; */
+  }
+  @keyframes aaaa
+  {
+    0%
+    {
+      transform: rotate(0deg);
+    }
+    100%
+    {
+      transform: rotate(360deg);
+    }
+  }
+  .img span
+  {
+    position: absolute;
+    inset: 5px;
+    border-radius: 50%;
+    background-image: url("C:\Users\veera\Downloads\logo hand 5.jpg"); 
+    background-size: 100%;
+    z-index: 1;
+  }
+.color
+{
+    margin-top: 30px;
+    margin-left: 190px;
+}

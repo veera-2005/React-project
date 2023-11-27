@@ -1,0 +1,319 @@
+.allh
+{
+    width: 100%;
+    /* border: 2px solid black; */
+    /* height: 1400px; */
+    text-align: center;
+    background-color: aliceblue;
+}
+#navulo
+{
+    display: flex;
+    justify-content: space-evenly;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+    border: 1px groove black;
+    height: 68px;
+    width: 1400px;
+    border-radius: 1px;
+    margin-left: 40px;
+    list-style-type: none;
+    padding-top: 10px;
+    background-image: url("C:\Users\veera\Downloads\_At [Your Organ 1 (1).png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: 0px 0px 15px 1px black;
+}
+/* #nlio
+{
+    height: 40px;
+    width: 165px;
+    font-size: 20px;
+    text-align: center;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 3px 3px 10px 0px black  ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: -10px;
+    padding-left: -10px;
+    cursor: pointer;
+} */
+#nlioo
+{
+    height: 53px;
+    width: 169px;
+    font-size: 30px;
+    text-align: center;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 3px 3px 10px 0px black  ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left:-30px;
+    margin-top: 0px;
+    padding-top: 0px;
+    cursor: pointer;
+    /* font-family:'Courier New', Courier, monospace; */
+}
+#nlio:hover
+{
+    height: 45px;
+    width: 170px;
+    box-shadow: 0px 0px 10px 0px black;
+    background-color: whitesmoke;
+    color: black;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#nlioo:hover
+{
+    height: 55px;
+    width: 170px;
+    box-shadow: 0px 0px 10px 0px black;
+    background-color: whitesmoke;
+    color: black;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.wastebotooo
+{
+    height: 50px;
+    width: 165px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: lightblue;
+    border-radius: 20px;
+    box-shadow: 3px 3px 10px 0px black;
+    margin-top: 1px;
+    font-size: 24px;
+    cursor: pointer;
+}
+.wastebotooo:hover
+{
+    height: 55px;
+    width: 170px;
+    box-shadow: 0px 0px 10px 0px black  ;
+    background-color: lightblue;
+    color: white;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.img1h
+{
+    /* border: 2px solid black; */
+    height: 800px;
+    width: 100%;
+    background-image: url("C:\Users\veera\Pictures\Screenshots\Screenshot 2023-11-20 215442.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.img2h
+{
+    /* border: 2px solid black; */
+    height: 900px;
+    width: 100%;
+    background-image: url("C:\Users\veera\Pictures\Screenshots\Screenshot 2023-11-20 215554.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.img3h
+{
+    /* border: 2px solid black; */
+    height: 800px;
+    width: 100%;
+    background-image: url("C:\Users\veera\Pictures\Screenshots\Screenshot 2023-11-20 221635.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.img4h
+{
+    /* border: 2px solid black; */
+    height: 400px;
+    width: 100%;
+    background-image: url("C:\Users\veera\Pictures\Screenshots\Screenshot 2023-11-20 221848.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.img5h
+{
+    /* border: 2px solid black; */
+    height: 750px;
+    width: 100%;
+    background-image: url("C:\Users\veera\Pictures\Screenshots\Screenshot 2023-11-20 222439.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.img6h
+{
+    /* border: 2px solid black; */
+    height: 500px;
+    width: 900px;
+    background-image: url("C:\Users\veera\Pictures\Screenshots\Screenshot 2023-11-20 215753.png");
+    background-size: 100%;
+    margin-left: 300px;
+    margin-bottom: 0px;
+    background-repeat: no-repeat;
+    box-shadow: 5px 5px 20px 2px black;
+    border-radius: 30px;
+}
+.img7h
+{
+    /* border: 2px solid black; */
+    height: 650px;
+    width: 1200px;
+    background-image: url("C:\Users\veera\Pictures\Screenshots\Screenshot 2023-11-20 222209.png");
+    background-size: 100%;
+    margin-left: 160px;
+    margin-top: 20px;
+    background-repeat: no-repeat;
+    box-shadow: 5px 5px 20px 2px black;
+    border-radius: 30px;
+}
+.img8h
+{
+    /* border: 2px solid black; */
+    height: 380px;
+    width: 1100px;
+    margin-left: 400px;
+    margin-top: 100px;
+    background-image: url("C:\Users\veera\Pictures\Screenshot 2023-11-20 215859.png");
+    background-size: 60%;
+    background-repeat: no-repeat;
+}
+.img9h
+{
+    /* border: 2px solid black; */
+    height: 300px;
+    width: 800px;
+    background-image: url("C:\Users\veera\Pictures\Screenshots\Screenshot 2023-11-20 215831.png");
+    background-size: 100%;
+    margin-top: 50px;
+    background-repeat: no-repeat;
+    margin-left: 340px;
+    position: absolute;
+}
+.buth
+{
+    margin-top: 260px;
+    /* margin-right: 900px; */
+    /* margin-left: 400; */
+    position: relative;
+}
+.openh
+{
+    border:5px black;
+    border-radius: 20px;
+    color: aliceblue;
+    background-color: orange;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 55px;
+    width: 500px;
+    margin-left: 0px;
+    margin-top: 130px;
+    margin-bottom: 50px;
+    box-shadow: 3px 3px 10px 2px black;
+}
+.openh:hover
+{
+    height: 60px;
+    width: 520px;
+    box-shadow: 0px 0px 15px 3px orangered;
+    font-size: 33px;
+    padding-top: 7px;
+}
+.proppp
+{
+    height: 200px;
+    width: 200px;
+    border: 1px groove white;
+    border-radius: 50%;
+    background: none;
+    margin-top: 0px;
+    margin-left: 80px;
+    box-shadow: 2px 2px 20px 5px white;
+    background-image: url("C:\Users\veera\Downloads\logo hand 5.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    padding-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
+.proppp::after
+{
+    content: '';
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    background: conic-gradient(transparent,transparent,gold);
+    animation: aaaa 2.5s linear infinite;
+    animation-delay: -1.25s;
+    
+}
+.proppp::before
+{
+    content: '';
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    background: conic-gradient(transparent,transparent,orangered);
+    animation: aaaa 2.5s linear infinite;
+    /* animation-delay: -2s; */
+}
+@keyframes aaaa
+{
+    0%
+    {
+        transform: rotate(0deg);
+    }
+    100%
+    {
+        transform: rotate(360deg);
+    }
+}
+.proppp span
+{
+    position: absolute;
+    inset: 5px;
+    border-radius: 50%;
+    background-image: url("C:\Users\veera\Downloads\logo hand 5.jpg"); 
+    background-size: 100%;
+    z-index: 1;
+}
+/* .foot
+{
+    height: 130px;
+    width: 100%;
+    border: 1px groove black;
+    background-color: lightblue;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+
+} */
+.foot1
+{
+    height: 130px;
+    width: 100%;
+    border: 1px groove black;
+    background-color: lightblue;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    margin-top: 0px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.win
+{
+    margin-top: 50px;
+}
